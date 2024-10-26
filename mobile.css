@@ -1,0 +1,193 @@
+@media (max-width: 450px) {
+
+    body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    background-color: #000; /* Черный фон */
+    color: #fff; /* Белый текст */
+    padding: 30px; /* Отступ от краев страницы */
+    position: relative;
+    height: 100vh; 
+    max-width: 450px;
+}
+    .Finfrog {
+        left: 30px;
+        top: 30px; 
+        font-size: 16px; 
+    }
+    .menu {
+        position: absolute;
+      left: 340px;
+        top: 30px; 
+        font-size: 13px; 
+        opacity: 1;
+    }
+    .Consulting {
+        left: 30px; 
+        top: 120px; 
+        font-size: 14.34px; 
+    }
+    .solutions {
+        left: 30px; /* Уменьшаем отступы */
+        top: 140px; /* Уменьшаем отступы */
+        font-size: 14.34px; /* Уменьшаем размер шрифта в 2 раза */
+    }
+    .technologies {
+        left: 30px; /* Уменьшаем отступы */
+        top: 160px; /* Уменьшаем отступы */
+        font-size: 14.34px; /* Уменьшаем размер шрифта в 2 раза */
+    }
+    .about {
+        left: 296px; /* Уменьшаем отступы */
+        top: 80px; /* Уменьшаем отступы */
+        font-size: 13px; /* Уменьшаем размер шрифта в 2 раза */
+        opacity: 0;
+    }
+    .services {
+        left: 340px; /* Уменьшаем отступы */
+        top: 120px; /* Уменьшаем отступы */
+        font-size: 13px; /* Уменьшаем размер шрифта в 2 раза */
+        opacity: 0;
+    }
+    .project {
+        left: 349px; /* Уменьшаем отступы */
+        top: 160px; /* Уменьшаем отступы */
+        font-size: 13px; /* Уменьшаем размер шрифта в 2 раза */
+        opacity: 0;
+    }
+    .finance {
+    top: 160px;
+    left: 200px;
+    opacity: 0;
+}
+
+.Legalsupport {
+    top: 180px;
+    left: 200px;
+    opacity: 0;
+}
+
+
+    .contacts {
+        left: 340px; /* Уменьшаем отступы */
+        top: 200px; /* Уменьшаем отступы */
+        font-size: 13px; /* Уменьшаем размер шрифта в 2 раза */
+        opacity: 0;
+    }
+
+    .number{
+        left: 200px; /* Уменьшаем отступы */
+        top: 200px; /* Уменьшаем отступы */
+        font-size: 13px; /* Уменьшаем размер шрифта в 2 раза */
+        opacity: 0;
+    }
+    .Telegram{
+        left: 200px; /* Уменьшаем отступы */
+        top: 220px; /* Уменьшаем отступы */
+        font-size: 13px; /* Уменьшаем размер шрифта в 2 раза */
+        opacity: 0;
+    }
+
+    .Digitalassets{
+    left: 30px; /* Уменьшаем отступы */
+        top: 600px; /* Уменьшаем отступы */
+        font-size: 32px; /* Уменьшаем размер шрифта в 2 раза */
+    }
+    .Globalopportunities {
+        left: 30px; 
+        top: 660px;
+        font-size: 32px; 
+    }
+    .Legal {
+    position: absolute;
+    left: 30px;
+    top: 1072px;
+    font-size: 24px; /* Размер шрифта для десктопа */
+    font-weight: 700;
+    
+}
+    img {
+    left: 95px;
+    top: 250px;
+    width: 206px; 
+    height: 233px; 
+}
+.issue-container {
+    width: 200px; /* Ширина контейнера */
+    background-color: #000; /* Фоновый цвет для контейнера */
+    padding: 0px; /* Отступы внутри контейнера */
+    color: #f9f9f9;
+    margin-right: 15px; /* Отступ между элементами */
+    box-sizing: border-box; /* Учитывать padding в ширине */
+    flex-shrink: 0; /* Запрет на сжатие элементов */
+    margin-top: 770px;
+}
+
+
+.header {
+    font-weight: bold; /* Жирный шрифт для заголовка */
+    font-size: 24px;
+    margin-bottom: 25px; /* Отступ снизу заголовка */
+}
+
+.item {
+    margin-bottom: 20px; /* Отступ между элементами */
+    font-size: 14px;
+    opacity: 0.5;
+}
+
+
+
+.Investing  {
+    left: 30px;
+    top: 1150px;
+    cursor: pointer; 
+    transition: opacity 0.3s ease;
+}
+.column2 {
+    position: absolute;
+    left: 30px; /* Позиция по оси X */
+    top: 1170px; 
+}
+.Opening {
+    left: 30px;
+    top: 1200px;
+}
+.column3 {
+    position: absolute;
+    left: 30px; /* Позиция по оси X */
+    top: 1220px; 
+}
+
+.foreign  {
+    left: 30px;
+    top: 1250px;
+}
+.column4 {
+    position: absolute;
+    left: 30px; /* Позиция по оси X */
+    top: 1270px; 
+}
+.estate {
+    left: 30px;
+    top: 1300px;
+}
+.column5 {
+    position: absolute;
+    left: 30px; /* Позиция по оси X */
+    top: 1320px; 
+}
+.registration  {
+    left: 30px;
+    top: 1350px;
+}
+.contactus  {
+    top: 1700px;
+    position: absolute;
+    left: 300px;
+    font-size: 16px; 
+    font-weight: 500;
+    opacity: 1;
+    
+}
+}
